@@ -1,0 +1,20 @@
+.navbar-brand{
+    font-weight: bold;
+}
+
+.navbar-custom { 
+    background-color: #16222A;
+    background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+    background: linear-gradient((59deg, #3a6073, #16222a));
+    color: white;
+} 
+
+.navbar-custom a{
+    color: #fff;
+    transition-duration: 0.2s;
+}
+
+.navbar-custom li a:hover{
+    color: #Fa944b;
+    text-decoration: none;
+}
